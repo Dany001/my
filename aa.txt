@@ -8,4 +8,21 @@ S
 A
 S
 
+
+Github Youtube Links
+
+
+https://help.github.com/articles/error-permission-denied-publickey
+
+
 what happpe if it is ur first commit
+http://www.youtube.com/results?search_query=how+to+add+ssh+key+in+github&sm=3
+
+http://www.youtube.com/watch?v=4gWRf-BoDxA
+
+http://www.youtube.com/watch?v=JGTFW4yZfsY
+
+
+http://www.youtube.com/watch?v=uN4_Mw92Ki8
+
+http://www.youtube.com/watch?v=iTK2tRxdzJU
